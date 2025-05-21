@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Cristane
 
-**`Desenvolvedora FullStack`**
+**`Professora de Matemática`**
 
 Me chamo Cristiane Maria de Mendonça Oliveira, tenho 46 anos e sou natural de São Paulo. Concluí o ensino médio EE. Adolpho Casais Monteiro. So Formada em Matemática cursada na faculdade Uninove, e pós graduada em Matemática Financeira pela Anhebi Morumbi. Sou apaixonada por tecnologia e Matemática.
 
